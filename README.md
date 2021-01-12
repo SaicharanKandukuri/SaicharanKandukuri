@@ -1,7 +1,8 @@
 ### Hi there 👋 I’m SaicharanKandukuri - aka Zman-1x1
 
+- 🎧 Music addict
 - 🔭 I’m currently working on unix and computers.
-- 🌱 I’m currently learning everything😄.
+- 🌱 I’m currently learning everything.
 - 😄 Pronouns: He/Him
 
 
