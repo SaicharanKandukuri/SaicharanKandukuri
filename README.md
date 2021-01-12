@@ -2,10 +2,15 @@
 
 - 🔭 I’m currently working on unix and computers.
 - 🌱 I’m currently learning everything😄.
+- 😄 Pronouns: He/Him
 
 
 ###### My Github stats
 ![Gitstats](https://github-readme-stats1.saicharankandukuri.vercel.app/api?username=SaicharanKandukuri)
+
+###### My top languages
+![zman_stats](https://github-readme-stats1.saicharankandukuri.vercel.app/api/top-langs/?username=SaicharanKandukuri)
+
 <!--
 **SaicharanKandukuri/SaicharanKandukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
