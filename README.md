@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m SaicharanKandukuri - aka Zman-1x1
 
-- 🔭 I’m currently working on unix and computers
-- 🌱 I’m currently everything😄
+- 🔭 I’m currently working on unix and computers.
+- 🌱 I’m currently learning everything😄.
 
 <!--
 **SaicharanKandukuri/SaicharanKandukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
