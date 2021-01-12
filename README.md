@@ -3,13 +3,7 @@
 - 🔭 I’m currently working on unix and computers.
 - 🌱 I’m currently learning everything😄.
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  
-  <img align="left" alt="Zman-1x1 Git stats" src="https://github-readme-stats.saicharankandukuri.vercel.app/api?username=Zman-1x1&show_icons=true&hide_border=true" />
-  
-</details>
-
+![Gitstats](https://github-readme-stats1.saicharankandukuri.vercel.app/api?username=SaicharanKandukuri)
 <!--
 **SaicharanKandukuri/SaicharanKandukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
