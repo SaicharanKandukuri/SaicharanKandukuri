@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m SaicharanKandukuri - aka Zman-1x1
 
 - 🎧 Music addict
-- 🔭 I’m currently working on porting ubuntu touch on an android device
+- 🔭 I’m currently working on porting ubuntu on an android device
 - 🌱 I’m currently learning everything.
 - 😄 Pronouns: He/Him
 
