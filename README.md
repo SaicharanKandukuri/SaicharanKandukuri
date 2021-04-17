@@ -11,7 +11,8 @@
 
 ###### My top languages
 ![zman_stats](https://github-readme-stats1.saicharankandukuri.vercel.app/api/top-langs/?username=SaicharanKandukuri)
-
+### My current Waka time
+![svg](https://wakatime.com/share/@zman_1x1/334ae84d-5883-408d-a6f4-a1c913c24754.svg)
 <!--
 **SaicharanKandukuri/SaicharanKandukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
