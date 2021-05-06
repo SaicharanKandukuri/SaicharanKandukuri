@@ -11,6 +11,6 @@
 ![Gitstats](https://github-readme-stats1.saicharankandukuri.vercel.app/api?username=SaicharanKandukuri)
 
 ###### My top languages
-![zman_stats](https://github-readme-stats1.saicharankandukuri.vercel.app/api/top-langs/?username=SaicharanKandukuri)
+![zman_stats](https://github-readme-stats1.saicharankandukuri.vercel.app/api/top-langs/?username=SaicharanKandukuri&layout=compact)
 ### My current Waka time
-[![wakatime stats](https://github-readme-stats1.saicharankandukuri.vercel.app/api/wakatime?username=zman_1x1)](https://github.com/SaicharanKandukuri/github-readme-stats)
+[![wakatime stats](https://github-readme-stats1.saicharankandukuri.vercel.app/api/wakatime?username=zman_1x1&layout=compact)](https://github.com/SaicharanKandukuri/github-readme-stats&layout=compact&line_height=1)
