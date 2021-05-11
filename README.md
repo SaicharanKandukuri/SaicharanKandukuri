@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: hello.1x1.sai@gmail.com
 
+![views](https://komarev.com/ghpvc/?username=saicharankandukuri)
 
 ###### My Github stats
 ![Gitstats](https://github-readme-stats1.saicharankandukuri.vercel.app/api?username=SaicharanKandukuri)
