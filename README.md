@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m SaicharanKandukuri - aka Zman-1x1
 
 - 🎧 Music addict
-- 🔭 I’m currently working on making rootfs file :)
+- 🔭 I’m currently working on AI,Linux,Termux
 - 🌱 I’m currently learning everything.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: hello.1x1.sai@gmail.com
