@@ -8,15 +8,30 @@
 
 ![views](https://komarev.com/ghpvc/?username=saicharankandukuri)
 
-###### Git streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaicharanKandukuri&hide_border=true)](https://git.io/streak-stats)
+<hr>
 
-###### My Github stats
-![Gitstats](https://github-readme-statsv2-ten.vercel.app/api?username=SaicharanKandukuri)
+<p align='center'>
+<img src='https://github-readme-streak-stats.herokuapp.com?user=SaicharanKandukuri&hide_border=true'>
+</p>
 
-###### My top languages
-![zman_stats](https://github-readme-statsv2-ten.vercel.app/api/top-langs/?username=SaicharanKandukuri&layout=compact)
-### My current Waka time
-[![wakatime stats](https://github-readme-stats1.saicharankandukuri.vercel.app/api/wakatime?username=zman_1x1&layout=compact)](https://github.com/SaicharanKandukuri/github-readme-stats&layout=compact&line_height=1)
+<hr>
+
+<p align='center'>
+<img src='https://github-readme-statsv2-ten.vercel.app/api?username=SaicharanKandukuri'>
+</p>
+
+<hr>
+
+
+<p align='center'>
+<img src='https://github-readme-statsv2-ten.vercel.app/api/top-langs/?username=SaicharanKandukuri&layout=compact'>
+</p>
+
+<hr>
+
+<p align='center'>
+<img src='https://github-readme-stats1.saicharankandukuri.vercel.app/api/wakatime?username=zman_1x1&layout=compact'>
+</p>
+
 
 > 😄 Iam a student. That the reason you see a lot of languages up there
