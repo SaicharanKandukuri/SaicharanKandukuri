@@ -8,6 +8,9 @@
 
 ![views](https://komarev.com/ghpvc/?username=saicharankandukuri)
 
+###### Git streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaicharanKandukuri&hide_border=true)](https://git.io/streak-stats)
+
 ###### My Github stats
 ![Gitstats](https://github-readme-statsv2-ten.vercel.app/api?username=SaicharanKandukuri)
 
