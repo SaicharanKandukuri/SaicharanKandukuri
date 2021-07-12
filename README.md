@@ -32,6 +32,3 @@
 <p align='center'>
 <img src='https://github-readme-stats1.saicharankandukuri.vercel.app/api/wakatime?username=zman_1x1&layout=compact'>
 </p>
-
-
-> 😄 Iam a student. That the reason you see a lot of languages up there
