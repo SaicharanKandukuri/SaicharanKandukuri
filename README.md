@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋 I’m SaicharanKandukuri - aka Zman-1x1
 
 - 🎧 Music addict
@@ -5,7 +6,7 @@
 - 🌱 I’m currently learning everything.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: hello.1x1.sai@gmail.com
-
+<!--
 <hr>
 
 <p align='center'>
@@ -30,3 +31,5 @@
 <p align='center'>
 <img src='https://github-readme-stats1.saicharankandukuri.vercel.app/api/wakatime?username=zman_1x1&layout=compact'>
 </p>
+-->
+![IMG](https://raw.githubusercontent.com/SaicharanKandukuri/SaicharanKandukuri/main/github-metrics.svg)
