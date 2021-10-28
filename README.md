@@ -33,7 +33,5 @@
 </p>
 -->
 ![IMG](github-metrics.svg)
-<hr>
 
-## 🎧 On:
-[![Spotify playing](http://spotify.aio-api.ml/spotify?id=315x36mhpyi7mwmo67wn2vduzssq&theme=wavy&image=true&color_theme=none&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=true)](https://open.spotify.com/user/315x36mhpyi7mwmo67wn2vduzssq)
+
