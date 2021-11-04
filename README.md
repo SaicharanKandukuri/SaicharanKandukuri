@@ -34,4 +34,9 @@
 -->
 ![IMG](github-metrics.svg)
 
+<hr>
+
+## On🎧
+![spotify_status_bar](https://spapi-36ouwewfu-saicharankandukuri.vercel.app/api/now-playing)
+
 
