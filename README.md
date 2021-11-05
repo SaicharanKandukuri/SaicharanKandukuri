@@ -37,6 +37,6 @@
 <hr>
 
 ## On🎧
-![spotify_status_bar](https://spapi-36ouwewfu-saicharankandukuri.vercel.app/api/now-playing)
+![spotify_status_bar](https://spapi-git-main-saicharankandukuri.vercel.app/api/now-playing)
 
 
