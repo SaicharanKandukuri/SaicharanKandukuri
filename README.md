@@ -38,7 +38,5 @@
 
 <hr>
 
-## On🎧
-![spotify_status_bar](https://spapi-git-main-saicharankandukuri.vercel.app/api/now-playing)
 
 
