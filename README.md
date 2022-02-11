@@ -33,6 +33,8 @@
 </p>
 -->
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FSaicharanKandukuri&label=%F0%9F%93%B8+%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BA%20(VISITORS)&countColor=%23ba68c8)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSaicharanKandukuri)
+
+<a href="https://www.buymeacoffee.com/zman1x1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <!-- add more on discord SaicharanKandukuri#3741 👌-->
 ![IMG](github-metrics.svg)
 
