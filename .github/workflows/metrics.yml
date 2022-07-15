@@ -39,3 +39,6 @@ jobs:
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 4
           plugin_anilist_user: zman1x1
+          plugin_rss: yes
+          plugin_rss_source: https://saicharankandukuri.github.io/index.xml
+          plugin_rss_limit: 4
