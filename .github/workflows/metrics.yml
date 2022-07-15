@@ -28,12 +28,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_ignored: c
-          plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 5
-          plugin_languages_recent_days: 30
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
