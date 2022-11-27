@@ -1,5 +1,11 @@
 [![@saicharankandukuri's Holopin board](https://holopin.io/api/user/board?user=saicharankandukuri)](https://holopin.io/@saicharankandukuri)
 
+<a href="https://wakatime.com/@4da1d8cc-2bc6-4e31-a253-9f0f04e754be">
+<p align="center">
+<strong>Total Code time (~approx) </strong>: <img src="https://wakatime.com/badge/user/4da1d8cc-2bc6-4e31-a253-9f0f04e754be.svg">
+</p>
+</a>
+
 <!-- add more on discord SaicharanKandukuri#3741 👌-->
 <p align="center">
 <img src="github-metrics.svg" >
