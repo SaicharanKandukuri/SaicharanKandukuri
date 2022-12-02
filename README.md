@@ -6,6 +6,13 @@
 </p>
 </a>
 
+<div align="center">
+
+<strong>⏺️ Live now:</strong>
+![status](https://badge.stateful.com/SaicharanKandukuri/dnd.svg)
+![status](https://badge.stateful.com/SaicharanKandukuri/status.svg)
+
+</div>
 <!-- add more on discord SaicharanKandukuri#3741 👌-->
 <p align="center">
 <img src="github-metrics.svg" >
