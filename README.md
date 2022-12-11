@@ -20,7 +20,7 @@
 
 <hr>
 
-<a href="https://github.com/SaicharanKandukuri/spotify-bar" target="_blank">
+<a href="https://spotify-playing-now-readme-eight.vercel.app/api/now-playing-link" target="_blank">
 <p align="center">
   <img src="https://spotify-playing-now-readme-eight.vercel.app/api/now-playing" >
 </p>
