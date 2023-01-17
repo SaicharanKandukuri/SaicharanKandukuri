@@ -1,4 +1,9 @@
-[![@saicharankandukuri's Holopin board](https://holopin.io/api/user/board?user=saicharankandukuri)](https://holopin.io/@saicharankandukuri)
+<div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68287637/212882218-4bcc2eae-08a4-4175-a8cc-afb00ed0087a.gif" alt="ghost-of-the-uchiha-naruto-shippuden">
+</p>
+</div>
+
 
 <a href="https://wakatime.com/@4da1d8cc-2bc6-4e31-a253-9f0f04e754be">
 <p align="center">
@@ -19,6 +24,8 @@
 </p>
 
 <hr>
+
+[![@saicharankandukuri's Holopin board](https://holopin.io/api/user/board?user=saicharankandukuri)](https://holopin.io/@saicharankandukuri)
 
 <a href="https://spotify-playing-now-readme-eight.vercel.app/api/now-playing-link" target="_blank">
 <p align="center">
