@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-  <img src="https://random-gif-github.vercel.app/api/gif/anime" alt="ghost-of-the-uchiha-naruto-shippuden">
+  <img src="https://github-readme-utils.vercel.app/api/gif/anime" alt="ghost-of-the-uchiha-naruto-shippuden">
 </p>
 </div>
 
