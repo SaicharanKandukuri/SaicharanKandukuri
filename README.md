@@ -1,4 +1,3 @@
-<div>
 <p align="center">
   <img src="https://github-readme-utils.vercel.app/api/gif/anime" alt="ghost-of-the-uchiha-naruto-shippuden">
 </p>
@@ -17,6 +16,8 @@
 ![status](https://badge.stateful.com/SaicharanKandukuri/dnd.svg)
 ![status](https://badge.stateful.com/SaicharanKandukuri/status.svg)
 
+
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/SaicharanKandukuri/badges/community)](https://community.vaunt.dev/board/SaicharanKandukuri)
 </div>
 <div align="center">
   
@@ -34,4 +35,3 @@
 
 </a>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSaicharanKandukuri" target="_blank"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FSaicharanKandukuri&label=%F0%9F%93%B8+%E3%83%93%E3%82%B8%E3%82%BF%E3%83%BC%E3%82%BA%20(VISITORS)&countColor=%23ba68c8" align="left"></a>
-
