@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github-readme-utils.vercel.app/api/gif/anime" alt="ghost-of-the-uchiha-naruto-shippuden">
+  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="ghost-of-the-uchiha-naruto-shippuden">
 </p>
+
 </div>
 
 
