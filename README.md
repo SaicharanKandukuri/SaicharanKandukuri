@@ -22,7 +22,7 @@
 </div>
 <div align="center">
   
-[💗Support my work and become a sponsor](https://github.com/sponsors/SaicharanKandukuri?o=esb)
+[💗 Buy me something ](https://github.com/sponsors/SaicharanKandukuri?o=esb)
 
 Hi, My name is Saicharan. I am a final-year undergraduate student at Parul University in computer science. My developer tag is zman/zman1x1. I've created multiple projects on Linux, web, and tooling. I am currently on a journey to build my career 😁.
   
