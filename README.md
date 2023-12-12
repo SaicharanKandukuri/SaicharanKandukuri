@@ -29,6 +29,10 @@ Hi, My name is Saicharan. I am a final-year undergraduate student at Parul Unive
 
 [💗 Buy me something ](https://github.com/sponsors/SaicharanKandukuri?o=esb)
 
+
+![CodeActivity_Lanaguages_I_WORKED_ON](https://wakatime.com/share/@zman_1x1/2f2c45ac-80c6-4b97-902e-751f23320094.svg)
+
+<hr>
 </div>
 <!-- add more on discord SaicharanKandukuri#3741 👌-->
 <p align="center">
