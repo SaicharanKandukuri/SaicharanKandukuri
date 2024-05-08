@@ -25,7 +25,7 @@
   
 
 
-Hi, My name is Saicharan. I am a . My developer tag is zman/zman1x1.
+Hi, My name is Saicharan. I am a ( hire me for money, Ill replace this ) . My developer tag is zman/zman1x1.
 [💗 Buy me something ](https://github.com/sponsors/SaicharanKandukuri?o=esb)
 
 
