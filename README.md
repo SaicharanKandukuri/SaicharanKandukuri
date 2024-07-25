@@ -14,11 +14,6 @@
 
 <div align="center">
 
-<strong>⏺️ Live now:</strong>
-![status](https://badge.stateful.com/SaicharanKandukuri/dnd.svg)
-![status](https://badge.stateful.com/SaicharanKandukuri/status.svg)
-
-
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/SaicharanKandukuri/badges/community)](https://community.vaunt.dev/board/SaicharanKandukuri)
 </div>
 <div align="center">
