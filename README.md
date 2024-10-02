@@ -30,8 +30,7 @@
   
 
 
-Hi, My name is Saicharan. Product Engineer intern at whitecarrot.io . My developer tag is zman/zman1x1.
-[💗 Buy me something ](https://github.com/sponsors/SaicharanKandukuri?o=esb)
+Hi, My name is Saicharan. Product Engineer intern at whitecarrot.io . My developer tag is zman/zman1x1. I do web development, Ops with linux :+1:
 
 
 ![CodeActivity_Lanaguages_I_WORKED_ON](https://wakatime.com/share/@zman_1x1/2f2c45ac-80c6-4b97-902e-751f23320094.svg)
