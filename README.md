@@ -8,19 +8,19 @@
  ███████████ █████     █████ █████   █████ █████  ░░█████
 ░░░░░░░░░░░ ░░░░░     ░░░░░ ░░░░░   ░░░░░ ░░░░░    ░░░░░ 
 ```
-<a href="https://github.com/SaicharanKandukuri/Anime-gif-ReadMe">
-<p align="center">
-  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="ghost-of-the-uchiha-naruto-shippuden" >
-</p>
-</a>
+<div align="center">
+   <a href="https://github.com/SaicharanKandukuri/Anime-gif-ReadMe">
+      <p align="center">
+         <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="ghost-of-the-uchiha-naruto-shippuden" >
+      </p>
+   </a>
+   <a href="https://wakatime.com/@4da1d8cc-2bc6-4e31-a253-9f0f04e754be">
+      <p align="center">
+         <strong>Total Code time (~approx) </strong>: <img src="https://wakatime.com/badge/user/4da1d8cc-2bc6-4e31-a253-9f0f04e754be.svg">
+      </p>
+   </a>
 </div>
 
-
-<a href="https://wakatime.com/@4da1d8cc-2bc6-4e31-a253-9f0f04e754be">
-<p align="center">
-<strong>Total Code time (~approx) </strong>: <img src="https://wakatime.com/badge/user/4da1d8cc-2bc6-4e31-a253-9f0f04e754be.svg">
-</p>
-</a>
 
 <div align="center">
 
