@@ -27,6 +27,9 @@
    </a>
    </br>
    </br>
+   <a align="center" href="https://spotify-github-badge.vercel.app/badge/saicharankandukuri">
+    <img src="https://spotify-github-badge.vercel.app/badge/saicharankandukuri.svg" alt="Spotify now playing" />
+   </a>
    <p align="center"> Hi, My name is Saicharan. My developer tag is zman/zman1x1. I do web development, Ops with Linux:+1:</p>
 </div>
 
@@ -37,9 +40,6 @@
 <!-- add more on discord SaicharanKandukuri#3741 👌-->
 <p align="center">
 <img src="github-metrics.svg" >
-<a align="center" href="https://spotify-github-badge.vercel.app/badge/saicharankandukuri">
- <img src="https://spotify-github-badge.vercel.app/badge/saicharankandukuri.svg" alt="Spotify now playing" />
-</a>
 </p>
 
 
