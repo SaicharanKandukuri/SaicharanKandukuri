@@ -24,8 +24,6 @@
    <p align="center"> Hi, My name is Saicharan. My developer tag is zman/zman1x1. I do web development, Ops with Linux:+1:</p>
 </div>
 
-
-![CodeActivity_Lanaguages_I_WORKED_ON](https://wakatime.com/share/@zman_1x1/2f2c45ac-80c6-4b97-902e-751f23320094.svg)
 <hr>
 </div>
 <!-- add more on discord SaicharanKandukuri#3741 👌-->
