@@ -27,9 +27,9 @@
 <hr>
 </div>
 <!-- add more on discord SaicharanKandukuri#3741 👌-->
-<p align="center">
+<!-- <p align="center">
 <img src="github-metrics.svg" >
-</p>
+</p> -->
 
 
 
